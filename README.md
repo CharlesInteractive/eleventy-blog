@@ -15,7 +15,7 @@ Based on the awesome [eleventy-base-blog](https://github.com/11ty/eleventy-base-
 
 ### 1. Generate a new repository from this repository template
 
-Click the ["Use this template"](https://github.com/google/eleventy-high-performance-blog/generate) button. Alternatively you can clone this repo yourself and push your copy to your favorite git repository.
+Click the ["Use this template"](https://github.com/CharlesInteractive/eleventy-blog/generate) button. Alternatively you can clone this repo yourself and push your copy to your favorite git repository.
 
 ### 2. Clone your new repository
 

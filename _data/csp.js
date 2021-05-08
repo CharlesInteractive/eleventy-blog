@@ -46,6 +46,8 @@ const CSP = {
     // additional allowed elements.
     // Example for allowing YouTube iframe embeds
     // ['frame-src', 'https://www.youtube.com/embed/']
+
+    ['frame-src', 'https://www.youtube.com/embed/']
   ]),
 };
 
